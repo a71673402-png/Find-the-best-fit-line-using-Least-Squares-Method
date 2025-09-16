@@ -43,12 +43,12 @@ plt.scatter(x,y)
 plt.plot(x,y_predicted,color='red')
 plt.show
 
-<img width="1050" height="700" alt="image" src="https://github.com/user-attachments/assets/efcb59d4-c5d7-4592-9b32-4f2133a3aeec" />
 
 ```
 
 ## Output:
-![best fit line](sam.png)
+
+<img width="1080" height="712" alt="image" src="https://github.com/user-attachments/assets/de60825d-a060-4662-8c42-87c7c273a74a" />
 
 
 ## Result:
